@@ -12,6 +12,7 @@ MIT
 
 # Screenshot
 
-Screen Shot 2022-12-17 at 9.59.11 PM.png
+![Screen Shot 2022-12-17 at 9 59 11 PM](https://user-images.githubusercontent.com/116418038/208316581-2038ad9d-d585-432e-ad94-7b86ef06be4b.png)
 
 # Link
+https://noahredford.github.io/rando-pass-generator/
